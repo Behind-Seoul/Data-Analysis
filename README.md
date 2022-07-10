@@ -19,7 +19,10 @@
 </p>
 <p align="center"><img width="1436" alt="cvee" src="https://user-images.githubusercontent.com/74298527/178135280-98efdb11-0e70-48db-98ae-b88c66fc6ee7.png">
 </p>
+
 #### ✅ Tour Spot List
-<p align="center"><img width="616" alt="f3f311" src="https://user-images.githubusercontent.com/74298527/178135635-e3270aac-7e59-47c9-80aa-5781eec71a80.png"></p>
+<img width="616" alt="f3f311" src="https://user-images.githubusercontent.com/74298527/178135706-7ae429df-1881-4967-9db6-7f812bd6d8d0.png">
+
+
 
 
